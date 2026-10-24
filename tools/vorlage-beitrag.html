@@ -21,9 +21,34 @@
 <meta property="og:image:alt" content="Karmaforschung — karmaforschung.ch">
 <meta property="article:published_time" content="{{DATUM_ISO}}">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="Karmaforschung" href="/feed.xml">
 <link rel="stylesheet" href="/assets/css/style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{TITEL}}",
+  "description": "{{ANRISS}}",
+  "datePublished": "{{DATUM_ISO}}",
+  "inLanguage": "de-CH",
+  "url": "https://karmaforschung.ch/blog/{{DATEINAME}}",
+  "mainEntityOfPage": "https://karmaforschung.ch/blog/{{DATEINAME}}",
+  "image": "https://karmaforschung.ch/assets/img/og-image.png",
+  "author": {
+    "@type": "Person",
+    "name": "Alexander G. Höhne",
+    "url": "https://alexanderhoehne.ch/"
+  },
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Karmaforschung",
+    "url": "https://karmaforschung.ch/blog/"
+  }
+}
+</script>
 </head>
 <body>
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
 
 <header class="site-header">
   <div class="wrap">
@@ -38,7 +63,7 @@
   </div>
 </header>
 
-<main>
+<main id="inhalt">
   <div class="wrap">
     <article>
       <div class="meta">{{DATUM_LANG}} &middot; <span class="tag">{{RUBRIK}}</span></div>

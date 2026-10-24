@@ -29,6 +29,8 @@ Es gibt keine Pull Requests mehr.
      (höchstens fünf Einträge),
    - einen `<url>`-Eintrag für den neuen Beitrag in `sitemap.xml`
      (`<lastmod>` = Erscheinungsdatum),
+   - einen `<item>`-Eintrag zuoberst in `feed.xml` (RSS: Titel, Link, Datum,
+     Rubrik, Anriss),
    - den Status in `REDAKTIONSPLAN.md` («Entwurf liegt vor»).
    Ist der lokale Ordner nicht auf dem Stand von GitHub, überschreibt Claude
    nichts, sondern legt den Entwurf im Unterordner `_entwuerfe/` ab und meldet das.
@@ -117,6 +119,12 @@ zwei weitere Platzhalter, die beim Erstellen eines Beitrags immer ersetzt werden
 - `{{DATEINAME}}`: Dateiname des Beitrags, z. B. `2026-11-08-begriffsgeschichte.html`
   (ergibt Canonical-Link und `og:url`),
 - `{{DATUM_ISO}}`: Erscheinungsdatum im Format `JJJJ-MM-TT`.
+
+Die Platzhalter kommen auch im Block `application/ld+json` (strukturierte Daten
+für Suchmaschinen) vor; dort keine geraden Anführungszeichen " verwenden, sondern „…“.
+Der Seitentitel (`<title>`) sollte höchstens etwa 65 Zeichen lang sein; ist er
+mit dem Zusatz « — Karmaforschung» länger, entfällt der Zusatz. Der Anriss
+(`description`) sollte höchstens 160 Zeichen haben.
 
 Die Schriften liegen lokal unter `assets/fonts/`; es werden keine Google Fonts eingebunden.
 Favicon (`favicon.svg`, `favicon.ico`, `apple-touch-icon.png`) und das Vorschaubild

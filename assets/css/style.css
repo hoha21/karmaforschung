@@ -385,3 +385,26 @@ article th, article td {
   border-bottom: 1px solid var(--rule);
 }
 article th { color: var(--ink-soft); font-weight: 600; }
+
+/* Sprunglink für Tastatur und Screenreader: erst bei Fokus sichtbar */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  z-index: 100;
+  padding: 0.5rem 1rem;
+  background: var(--bg-raised);
+  color: var(--ink);
+  border: 2px solid var(--accent);
+  border-radius: 6px;
+  font-family: var(--font-sans);
+  text-decoration: none;
+}
+a:focus-visible, button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}

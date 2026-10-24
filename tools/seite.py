@@ -7,6 +7,7 @@ Datenschutz). Nicht ohne Abgleich neu ausführen, sonst gehen diese Ergänzungen
 FONTS = '''<link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="alternate" type="application/rss+xml" title="Karmaforschung" href="/feed.xml">
 <link rel="stylesheet" href="/assets/css/style.css">'''
 
 NAV = [("/", "Start"), ("/blog/", "Blog"), ("/ueber-mich.html", "Über mich"), ("/impressum.html", "Impressum")]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karmaforschung</title>
+    <link>https://karmaforschung.ch/</link>
+    <description>Reinkarnation und Karma in der europäischen Geistesgeschichte</description>
+    <language>de-ch</language>
+    <atom:link href="https://karmaforschung.ch/feed.xml" rel="self" type="application/rss+xml"/>
+    <!-- Neuester Beitrag zuoberst; bei jedem neuen Beitrag ein <item> oben einfügen -->
+    <item>
+      <title>Karma auf der Bühne</title>
+      <link>https://karmaforschung.ch/blog/2026-10-25-karma-auf-der-buehne.html</link>
+      <guid isPermaLink="true">https://karmaforschung.ch/blog/2026-10-25-karma-auf-der-buehne.html</guid>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Mysteriendramen</category>
+      <description>Wie die Mysteriendramen Reinkarnation und Karma als Erfahrung ihrer Figuren zeigen: alte Spannungen in neuer Gestalt, frühere Taten als Anlage – und Freiheit durch Einsicht, je nach Vermögen.</description>
+    </item>
+    <item>
+      <title>Wo sich Ursache und Wirkung zeigen</title>
+      <link>https://karmaforschung.ch/blog/2026-10-11-ursache-und-wirkung.html</link>
+      <guid isPermaLink="true">https://karmaforschung.ch/blog/2026-10-11-ursache-und-wirkung.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0200</pubDate>
+      <category>Methode</category>
+      <description>Karma fasst Ursache und Wirkung in ein Wort. Über Sinnzusammenhänge, die verborgen sind, über Verstehen statt Erklären – und über die vielen Formen, in denen Wissen über das eigene Leben vorliegt.</description>
+    </item>
+    <item>
+      <title>Warum eine europäische Karmaforschung?</title>
+      <link>https://karmaforschung.ch/blog/2026-09-27-europaeische-karmaforschung.html</link>
+      <guid isPermaLink="true">https://karmaforschung.ch/blog/2026-09-27-europaeische-karmaforschung.html</guid>
+      <pubDate>Sun, 27 Sep 2026 08:00:00 +0200</pubDate>
+      <category>Grundlagen</category>
+      <description>Ein früherer Blog, ein Buch von 2007 und die Frage, warum ich die Arbeit an der Karmaforschung jetzt wieder aufnehme – mit erweitertem Bezugshorizont.</description>
+    </item>
+  </channel>
+</rss>
