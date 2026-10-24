@@ -21,9 +21,7 @@ an der Quelle geprüft.
 | 03.01.2027 | Schopenhauer: Palingenesie statt Seelenwanderung | Schopenhauer, *Parerga und Paralipomena* II (1851), Kap. zur Lehre von der Unzerstörbarkeit unseres wahren Wesens | offen |
 | 17.01.2027 | Steiner 1903: Reinkarnation und Karma als «naturwissenschaftlich notwendige» Vorstellungen? | Steiner, Aufsätze in *Lucifer* 1903 (GA 34) | offen |
 | 31.01.2027 | Ian Stevenson und die empirische Reinkarnationsforschung – eine Einordnung (referieren, nicht vertreten) | Stevenson, *Twenty Cases Suggestive of Reincarnation* (1966); Tucker, *Life Before Life* (2005); Division of Perceptual Studies (UVA) | offen |
-| 14.02.2027 | Heidegger: Geschichtlichkeit des Daseins – was heisst es, ein Leben als Ganzes zu verstehen? | Heidegger, *Sein und Zeit* (1927), Abschnitte zu Sein zum Tode und Geschichtlichkeit; Anwendung auf die Karmafrage = Deutung | offen |
+| 14.02.2027 | Heidegger: Geschichtlichkeit des Daseins – was heisst es, ein Leben als Ganzes zu verstehen? Mit dem Unterschied zu Steiner (endliches, geworfenes Dasein gegenüber geistigem Wesenskern in wiederholten Erdenleben) und Alexanders eigener Lesart; angekündigt im Beitrag vom 24.10.2026 | Heidegger, *Sein und Zeit* (1927), Abschnitte zu Sein zum Tode und Geschichtlichkeit, § 10 (Abgrenzung gegen Anthropologie, Psychologie, Biologie); *Was heisst Denken?* (1954); Anwendung auf die Karmafrage = Deutung | offen |
 | 28.02.2027 | Gadamer: Verstehen statt Beweisen – Wirkungsgeschichte und Karma | Gadamer, *Wahrheit und Methode* (1960); Anwendung auf die Karmafrage = Deutung | offen |
 | 14.03.2027 | Sloterdijk: Übung, Wiederholung, Selbstformung – Karma als ästhetische Frage | Sloterdijk, *Du musst dein Leben ändern* (2009); Anwendung auf die Karmafrage = Deutung | offen |
 | 28.03.2027 | Fragmente einer Wissenschaft – warum Karmaforschung meditative Vertiefung braucht | Höhne (2007); Steiner, *Wie erlangt man Erkenntnisse der höheren Welten?* (GA 10) | offen |
-
-**Vorgemerkt (ohne Termin):** Heidegger und Steiner – eigener Beitrag zu Heideggers Daseinsanalyse und Alexanders Lesart (angekündigt im Beitrag vom 24.10.2026).
