@@ -7,3 +7,6 @@
 Thumbs.db
 desktop.ini
 *.tmp
+
+# Python-Zwischendateien
+__pycache__/
