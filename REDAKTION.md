@@ -129,3 +129,20 @@ mit dem Zusatz « — Karmaforschung» länger, entfällt der Zusatz. Der Anriss
 Die Schriften liegen lokal unter `assets/fonts/`; es werden keine Google Fonts eingebunden.
 Favicon (`favicon.svg`, `favicon.ico`, `apple-touch-icon.png`) und das Vorschaubild
 `assets/img/og-image.png` gelten für alle Seiten.
+
+## Rubriken
+
+Jeder Beitrag erhält genau eine Rubrik aus diesem festen Satz (in `<span class="tag">`,
+im JSON-LD als `articleSection` und im Feed als `<category>`):
+
+- **Grundlagen** – Ausrichtung der Seite, Leitfrage, Menschenbild
+- **Methode** – Erkenntniswege, Formen des Wissens, meditative Vertiefung
+- **Begriffe** – Begriffsgeschichte und Begriffsklärung
+- **Autoren** – einzelne Autoren der europäischen Spur (Lessing, Herder, Goethe, Schopenhauer, Steiner …)
+- **Philosophie** – philosophische Gesprächspartner (Heidegger, Gadamer, Sloterdijk …)
+- **Empirie** – empirische Forschung und Naturwissenschaft (Stevenson, Hirnforschung …)
+- **Mysteriendramen** – Karma in Steiners Mysteriendramen
+
+Die Rubrik steht auch im REDAKTIONSPLAN.md. Die Blogübersicht bietet einen
+Rubriken-Filter (`assets/js/rubriken.js`); er übernimmt die Rubriken automatisch
+aus den Einträgen. Direktlink auf eine Rubrik: `/blog/#rubrik=Methode`.

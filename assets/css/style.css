@@ -408,3 +408,22 @@ a:focus-visible, button:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
+
+/* Rubriken-Filter in der Blogübersicht (assets/js/rubriken.js) */
+.rubriken { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; margin: 1.25rem 0 1.75rem; }
+.rubriken[hidden] { display: none; }
+.rubriken-label { font-family: var(--font-sans); font-size: 0.82rem; color: var(--ink-soft); margin-right: 0.2rem; }
+.rubrik-chip {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  background: transparent;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.rubrik-chip:hover { border-color: var(--accent-soft); color: var(--ink); }
+.rubrik-chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+.post-list li[hidden] { display: none; }
