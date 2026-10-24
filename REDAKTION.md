@@ -56,6 +56,14 @@ Claude veröffentlicht nie selbst, mergt nie selbst und schreibt nie direkt auf 
 - Von dort aus ist Alexanders Zugang **meditativ, seinsphilosophisch und
   hermeneutisch** (im Gespräch mit Heidegger und Gadamer) sowie **ästhetisch**
   (mit Sloterdijk).
+- **Leitgedanke des Blogs:** gesucht sind Einsichten in eine «höhere», aber
+  immer noch reflektierte Erkenntnis – sie gibt an, aus welchem Feld und auf
+  welcher Erkenntnisstufe eine Aussage stammt, und trennt Anschauung, Deutung
+  und Begriff.
+- **Europäische Karmaforschung** wird verstanden aus der Entwicklung der Moderne
+  um 1900 und ihren Vorläufern (Aufklärung): individuelle Erkenntnis und
+  Lebensführung, Suche nach anderen Grundlagen als Tradition, vorgefundener
+  Gesellschaftsordnung und institutioneller Religion.
 - Empirische Reinkarnationsforschung (Ian Stevenson und Nachfolge an der
   University of Virginia) wird referiert und eingeordnet, aber nicht als
   eigene Methode vertreten. Die Beiträge machen keine empirischen Beweisansprüche.
