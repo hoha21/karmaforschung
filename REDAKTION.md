@@ -60,6 +60,17 @@ Claude veröffentlicht nie selbst, mergt nie selbst und schreibt nie direkt auf 
   immer noch reflektierte Erkenntnis – sie gibt an, aus welchem Feld und auf
   welcher Erkenntnisstufe eine Aussage stammt, und trennt Anschauung, Deutung
   und Begriff.
+- **Verstehen statt Erklären:** Karma fasst Ursache und Wirkung in ein Wort und
+  klammert die zwingende Zeitfolge aus. Sinnzusammenhänge sind oft verborgen
+  (okkult) und werden durch Reflexion, Differenzierung und hermeneutisches
+  Verstehen entborgen (Heidegger im Anschluss an Husserl, Gadamer) – nicht
+  naturwissenschaftlich erklärt.
+- **Wissensbestände:** neben empirischem auch historisches, kulturell-spontanes
+  (Legenden, Mythen), philosophisches, narratives, performatives/exploratives
+  und meditatives Wissen.
+- **Bedeutung der Lehre:** Reinkarnation und Karma sind dort bedeutsam, wo sie
+  Erfahrung informieren oder differenzieren und den Horizont erweitern oder
+  vertiefen. Beiträge zeigen, wo das der Fall ist.
 - **Europäische Karmaforschung** wird verstanden aus der Entwicklung der Moderne
   um 1900 und ihren Vorläufern (Aufklärung): individuelle Erkenntnis und
   Lebensführung, Suche nach anderen Grundlagen als Tradition, vorgefundener
