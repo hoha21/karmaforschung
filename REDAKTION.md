@@ -46,8 +46,13 @@ Claude veröffentlicht nie selbst, mergt nie selbst und schreibt nie direkt auf 
 
 ## Methodische Haltung
 
-- Alexanders eigener Zugang ist **meditativ, seinsphilosophisch und hermeneutisch**
-  (im Gespräch mit Heidegger und Gadamer) sowie **ästhetisch** (mit Sloterdijk).
+- **Primärer methodischer Ausgangsort ist Rudolf Steiner**, gerade auch seine
+  Darstellung karmischer Zusammenhänge in den vier Mysteriendramen. Wo es passt,
+  wird auf mysteriendramen.ch verwiesen; Fakten zu den Dramen werden an den
+  Texten geprüft (Steiner, GA 14).
+- Von dort aus ist Alexanders Zugang **meditativ, seinsphilosophisch und
+  hermeneutisch** (im Gespräch mit Heidegger und Gadamer) sowie **ästhetisch**
+  (mit Sloterdijk).
 - Empirische Reinkarnationsforschung (Ian Stevenson und Nachfolge an der
   University of Virginia) wird referiert und eingeordnet, aber nicht als
   eigene Methode vertreten. Die Beiträge machen keine empirischen Beweisansprüche.
