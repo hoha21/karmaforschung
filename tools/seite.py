@@ -112,7 +112,29 @@ if __name__ == "__main__":
     <p>Alle Texte auf dieser Seite unterliegen dem Urheberrecht des Autors, sofern nicht anders gekennzeichnet. Eine Weiterverwendung ist nur mit vorheriger Zustimmung und unter Angabe der Quelle gestattet.</p>
 '''
     D = "Essays und Studien zu Reinkarnation und Karma in der europäischen Geistesgeschichte – von Lessing, Goethe und Schopenhauer bis Rudolf Steiner. Von Alexander Höhne."
-    (root/"index.html").write_text(seite("Karmaforschung — Reinkarnation und Karma in der europäischen Geistesgeschichte", D, "/", start))
-    (root/"blog"/"index.html").write_text(seite("Blog — Karmaforschung", "Alle Beiträge zu Reinkarnation und Karma in der europäischen Geistesgeschichte.", "/blog/", blog))
-    (root/"ueber-mich.html").write_text(seite("Über mich — Karmaforschung", "Alexander Höhne: Forschung zu Reinkarnation und Karma, Autor von «Europäische Karmaforschung. Fragmente einer Wissenschaft».", "/ueber-mich.html", ueber))
-    (root/"impressum.html").write_text(seite("Impressum — Karmaforschung", "Impressum von karmaforschung.ch.", "/impressum.html", impressum))
+    import re
+    def behalte_liste(pfad, html, marker):
+        """Übernimmt die bestehenden Beitragseinträge, damit ein Neuaufbau sie nicht löscht."""
+        if not pfad.exists():
+            return html
+        alt = pfad.read_text()
+        m = re.search(re.escape(marker) + r"\n(.*?)    </ul>", alt, re.S)
+        eintraege = m.group(1) if m else ""
+        if eintraege.strip():
+            html = html.replace(marker + "\n", marker + "\n" + eintraege, 1)
+            html = re.sub(r'    <p class="meta" id="noch-keine">.*?</p>\n', "", html)
+        return html
+
+    M_START = "      <!-- Neueste Beiträge: wird bei jedem neuen Post oben ergänzt (max. 5) -->"
+    M_BLOG = "      <!-- Neuester Beitrag zuoberst; beim Hinzufügen eines neuen Posts hier einen <li>-Block einfügen -->"
+    _orig_write = pathlib.Path.write_text
+    def schreibe(pfad, html):
+        for mk in (M_START, M_BLOG):
+            if mk in html:
+                html = behalte_liste(pfad, html, mk)
+        _orig_write(pfad, html)
+
+    schreibe(root/"index.html", seite("Karmaforschung — Reinkarnation und Karma in der europäischen Geistesgeschichte", D, "/", start))
+    schreibe(root/"blog"/"index.html", seite("Blog — Karmaforschung", "Alle Beiträge zu Reinkarnation und Karma in der europäischen Geistesgeschichte.", "/blog/", blog))
+    schreibe(root/"ueber-mich.html", seite("Über mich — Karmaforschung", "Alexander Höhne: Forschung zu Reinkarnation und Karma, Autor von «Europäische Karmaforschung. Fragmente einer Wissenschaft».", "/ueber-mich.html", ueber))
+    schreibe(root/"impressum.html", seite("Impressum — Karmaforschung", "Impressum von karmaforschung.ch.", "/impressum.html", impressum))
