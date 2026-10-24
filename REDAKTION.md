@@ -11,30 +11,33 @@ Arbeitsgrundlage für Alexander und für Claude. Die geplante Aufgabe
   **Sonntag, 25. Oktober 2026**, danach 8.11., 22.11., 6.12. usw.
 - Der Entwurf entsteht jeweils **am selben Sonntag gegen 23 Uhr**; das
   Erscheinungsdatum im Beitrag ist dieser Sonntag. Online geht er, sobald
-  Alexander den Pull Request mergt.
+  Alexander ihn in GitHub Desktop committet und pusht.
 
 ## Ablauf: vom Entwurf zur Veröffentlichung
 
-1. Claude legt einen Zweig `entwurf/JJJJ-MM-TT-kurztitel` an und schreibt dort:
+Wie bei mysteriendramen.ch und alexanderhoehne.ch läuft alles über den lokalen
+Ordner **`C:\GitBlog\karmaforschung`** auf Alexanders PC und **GitHub Desktop**.
+Es gibt keine Pull Requests mehr.
+
+1. **Vorher:** Alexander holt in GitHub Desktop den aktuellen Stand
+   («Fetch origin», bei Bedarf «Pull origin»), damit der lokale Ordner und
+   GitHub übereinstimmen.
+2. Claude schreibt die Änderungen direkt in den lokalen Ordner:
    - den Beitrag `blog/JJJJ-MM-TT-kurztitel.html` (aus `tools/vorlage-beitrag.html`),
    - den Eintrag zuoberst in `blog/index.html`,
    - den Eintrag zuoberst in der Liste «Neueste Beiträge» in `index.html`
-     (höchstens fünf Einträge; der Hinweis `id="noch-keine"` wird beim ersten
-     Beitrag entfernt),
+     (höchstens fünf Einträge),
    - den Status in `REDAKTIONSPLAN.md` («Entwurf liegt vor»).
-   Sind noch frühere Entwurfs-Pull-Requests offen, baut der neue Zweig auf dem
-   neuesten offenen Entwurfszweig auf, damit die Beitragslisten zusammenpassen.
-2. Claude öffnet dazu einen **Pull Request** gegen `main` mit dem Titel
-   «Entwurf: <Titel> (<Datum>)». In der Beschreibung: Kurzinhalt, verwendete
-   Quellen, offene Fragen und alle Stellen, die als Deutung markiert sind.
-3. Alexander liest den Entwurf, vorzugsweise am PC (GitHub im Browser →
-   Pull Requests, oder GitHub Desktop), kommentiert oder ändert.
-4. **Veröffentlichen = Pull Request mergen.** GitHub Pages stellt die Seite
-   danach automatisch online. Nicht mergen = nichts geht live.
-5. Am PC danach in GitHub Desktop «Fetch/Pull», damit `C:\GitBlog\Karmaforschung`
-   auf demselben Stand ist.
+   Ist der lokale Ordner nicht auf dem Stand von GitHub, überschreibt Claude
+   nichts, sondern legt den Entwurf im Unterordner `_entwuerfe/` ab und meldet das.
+3. Alexander liest den Entwurf (die HTML-Datei lässt sich im Browser öffnen)
+   und gibt Änderungswünsche an Claude oder ändert selbst.
+4. **Veröffentlichen = in GitHub Desktop «Commit to main» und danach «Push origin».**
+   GitHub Pages stellt die Seite automatisch online. Nicht pushen = nichts geht live.
+5. Nicht gleichzeitig dieselbe Datei in einem Editor offen lassen, während Claude
+   daran arbeitet; sonst kann eine ältere Fassung zurückgespeichert werden.
 
-Claude veröffentlicht nie selbst, mergt nie selbst und schreibt nie direkt auf `main`.
+Claude veröffentlicht nie selbst: Claude committet und pusht nicht, das tut nur Alexander.
 
 ## Sprache und Stimme
 
