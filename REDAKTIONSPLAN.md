@@ -10,7 +10,7 @@ an der Quelle geprüft.
 
 | Datum | Thema (Arbeitstitel) | Ausgangsquellen | Status |
 |---|---|---|---|
-| 25.10.2026 | Warum eine *europäische* Karmaforschung? – Auftakt: das Buch von 2012 und warum das Vorhaben jetzt wieder aufgenommen wird – aus eigenen Studien mit erweitertem Bezugshorizont (meditativ, seinsphilosophisch, hermeneutisch, ästhetisch) | Höhne, *Europäische Karmaforschung. Fragmente einer Wissenschaft* (2012); worin der erweiterte Bezugshorizont konkret besteht, nicht erfinden – als offene Frage an Alexander in den Pull Request | offen |
+| 25.10.2026 | Warum eine *europäische* Karmaforschung? – Auftakt: das frühere Blogprojekt, aus dem 2012 das Buch als Sammlung der Beiträge hervorging, und warum das Vorhaben jetzt wieder aufgenommen wird – aus eigenen Studien mit erweitertem Bezugshorizont (meditativ, seinsphilosophisch, hermeneutisch, ästhetisch) | Höhne, *Europäische Karmaforschung. Fragmente einer Wissenschaft* (2012); worin der erweiterte Bezugshorizont konkret besteht, nicht erfinden – als offene Frage an Alexander in den Pull Request | offen |
 | 08.11.2026 | Karma auf der Bühne: wie die Mysteriendramen karmische Zusammenhänge darstellen statt erklären | Steiner, *Vier Mysteriendramen* (GA 14), bes. *Die Prüfung der Seele* (Rückschau ins 14. Jahrhundert) und *Der Seelen Erwachen*; Verweis auf mysteriendramen.ch | offen |
 | 22.11.2026 | Lessing und die «Erziehung des Menschengeschlechts» – Wiederkehr als Lernweg | Lessing, *Die Erziehung des Menschengeschlechts* (1780), Schlussparagraphen | offen |
 | 06.12.2026 | Goethe: «in abgelebten Zeiten» – Spuren des Wiederverkörperungsgedankens | Gedicht an Charlotte von Stein (1776); Gespräch mit J. D. Falk nach Wielands Tod (1813) | offen |
