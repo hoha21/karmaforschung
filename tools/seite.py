@@ -1,10 +1,12 @@
 """Gemeinsames Seitengerüst für karmaforschung.ch.
 Aufruf in neuen Beiträgen nicht nötig – Beiträge sind fertige HTML-Dateien.
-Dieses Skript erzeugt nur die Grundseiten (Start, Blog, Über mich, Impressum)."""
+Dieses Skript erzeugt nur die Grundseiten (Start, Blog, Über mich, Impressum).
+Achtung: Die aktuellen Seiten wurden seither von Hand erweitert (Footer, Open-Graph-Angaben,
+Datenschutz). Nicht ohne Abgleich neu ausführen, sonst gehen diese Ergänzungen verloren."""
 
-FONTS = '''<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,600&display=swap" rel="stylesheet">
+FONTS = '''<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/css/style.css">'''
 
 NAV = [("/", "Start"), ("/blog/", "Blog"), ("/ueber-mich.html", "Über mich"), ("/impressum.html", "Impressum")]

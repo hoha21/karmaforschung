@@ -27,6 +27,8 @@ Es gibt keine Pull Requests mehr.
    - den Eintrag zuoberst in `blog/index.html`,
    - den Eintrag zuoberst in der Liste «Neueste Beiträge» in `index.html`
      (höchstens fünf Einträge),
+   - einen `<url>`-Eintrag für den neuen Beitrag in `sitemap.xml`
+     (`<lastmod>` = Erscheinungsdatum),
    - den Status in `REDAKTIONSPLAN.md` («Entwurf liegt vor»).
    Ist der lokale Ordner nicht auf dem Stand von GitHub, überschreibt Claude
    nichts, sondern legt den Entwurf im Unterordner `_entwuerfe/` ab und meldet das.
@@ -106,3 +108,16 @@ Claude veröffentlicht nie selbst: Claude committet und pusht nicht, das tut nur
 - Grundseiten werden mit `tools/seite.py` erzeugt; Beiträge sind fertige
   HTML-Dateien nach `tools/vorlage-beitrag.html`.
 - Datumsformat in Listen: «8. November 2026». Dateinamen: `2026-11-08-kurztitel.html`.
+
+## Kopfbereich der Beiträge (Vorschau, Suchmaschinen)
+
+`tools/vorlage-beitrag.html` enthält im `<head>` neben `{{TITEL}}` und `{{ANRISS}}`
+zwei weitere Platzhalter, die beim Erstellen eines Beitrags immer ersetzt werden:
+
+- `{{DATEINAME}}`: Dateiname des Beitrags, z. B. `2026-11-08-begriffsgeschichte.html`
+  (ergibt Canonical-Link und `og:url`),
+- `{{DATUM_ISO}}`: Erscheinungsdatum im Format `JJJJ-MM-TT`.
+
+Die Schriften liegen lokal unter `assets/fonts/`; es werden keine Google Fonts eingebunden.
+Favicon (`favicon.svg`, `favicon.ico`, `apple-touch-icon.png`) und das Vorschaubild
+`assets/img/og-image.png` gelten für alle Seiten.
