@@ -27,8 +27,8 @@ Arbeitsgrundlage für Alexander und für Claude. Die geplante Aufgabe
 2. Claude öffnet dazu einen **Pull Request** gegen `main` mit dem Titel
    «Entwurf: <Titel> (<Datum>)». In der Beschreibung: Kurzinhalt, verwendete
    Quellen, offene Fragen und alle Stellen, die als Deutung markiert sind.
-3. Alexander liest den Entwurf (Handy: GitHub-App → Pull Requests; PC: GitHub
-   Desktop oder Browser), kommentiert oder ändert.
+3. Alexander liest den Entwurf, vorzugsweise am PC (GitHub im Browser →
+   Pull Requests, oder GitHub Desktop), kommentiert oder ändert.
 4. **Veröffentlichen = Pull Request mergen.** GitHub Pages stellt die Seite
    danach automatisch online. Nicht mergen = nichts geht live.
 5. Am PC danach in GitHub Desktop «Fetch/Pull», damit `C:\GitBlog\Karmaforschung`
