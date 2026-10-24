@@ -1,0 +1,9 @@
+# Private Notizen – nie ins öffentliche Repository
+/backup/
+/privat/
+
+# Betriebssystem- und Editor-Dateien
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
