@@ -10,7 +10,7 @@ an der Quelle geprüft.
 
 | Datum | Thema (Arbeitstitel) | Ausgangsquellen | Status |
 |---|---|---|---|
-| 25.10.2026 | Warum eine *europäische* Karmaforschung? – Auftakt und Anliegen der Seite | Höhne, *Europäische Karmaforschung. Fragmente einer Wissenschaft* (2012) | offen |
+| 25.10.2026 | Warum eine *europäische* Karmaforschung? – Auftakt: das Buch von 2012 und warum das Vorhaben jetzt wieder aufgenommen und durch Studien der letzten Jahre neu gestaltet wird | Höhne, *Europäische Karmaforschung. Fragmente einer Wissenschaft* (2012); welche neueren Studien gemeint sind, nicht erfinden – als offene Frage an Alexander in den Pull Request | offen |
 | 08.11.2026 | Lessing und die «Erziehung des Menschengeschlechts» – Wiederkehr als Lernweg | Lessing, *Die Erziehung des Menschengeschlechts* (1780), Schlussparagraphen | offen |
 | 22.11.2026 | Goethe: «in abgelebten Zeiten» – Spuren des Wiederverkörperungsgedankens | Gedicht an Charlotte von Stein (1776); Gespräch mit J. D. Falk nach Wielands Tod (1813) | offen |
 | 06.12.2026 | Herders Einspruch – «Über die Seelenwanderung» | Herder, *Über die Seelenwanderung. Drei Gespräche* (1782) | offen |
