@@ -8,7 +8,7 @@ root = pathlib.Path(__file__).resolve().parent.parent
 B1_TITEL = "Warum eine europäische Karmaforschung?"
 B1_ANRISS = "Ein früherer Blog, ein Buch von 2012 und die Frage, warum ich die Arbeit an der Karmaforschung jetzt wieder aufnehme – mit erweitertem Bezugshorizont."
 B1 = '''    <article>
-      <div class="meta">27. September 2026 &middot; <span class="tag">Grundlagen</span></div>
+      <div class="meta">27. September 2026 &middot; <span class="tag">Grundlagen</span> &middot; nachträglich veröffentlicht im Oktober 2026</div>
       <h1>Warum eine europäische Karmaforschung?</h1>
 
       <p>Wer heute das Wort «Karma» hört, denkt meist an Indien. Das Wort stammt aus dem Sanskrit, und die Vorstellung, dass ein Mensch mehr als einmal lebt, verbinden die meisten mit Hinduismus und Buddhismus – oder mit einer westlichen Esoterik, die sich aus diesen Quellen bedient. Mich beschäftigt seit langem eine andere Spur: dass es in Europa eine eigene Auseinandersetzung mit Wiederverkörperung und Schicksal gibt, mit eigenen Fragen, eigenen Begriffen und einer eigenen Geschichte.</p>
@@ -27,6 +27,14 @@ B1 = '''    <article>
 
       <p class="note">Deutung: Dass Lessings fragende Form für die europäische Tradition insgesamt typisch ist, ist meine Lesart und keine belegte Gesamtaussage. Ich werde sie an den einzelnen Autoren prüfen.</p>
 
+      <h2>Eigene Einsicht statt vorgefundener Ordnung</h2>
+
+      <p>Lessings Frage gehört in das Zeitalter der Aufklärung. Wenige Jahre später, im Dezember 1784, bestimmte Immanuel Kant in der <em>Berlinischen Monatsschrift</em> die Aufklärung als «Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit» und forderte dazu auf, sich des eigenen Verstandes zu bedienen. Damit ist ein Anspruch formuliert, der die europäische Moderne nicht mehr loslässt: Erkenntnis soll auf eigener Einsicht beruhen und nicht allein auf Autorität.</p>
+
+      <p>Um 1900 wird dieser Anspruch für viele Menschen zu einer Frage der ganzen Lebensführung. Tradition, die vorgefundene Gesellschaftsordnung und die institutionelle Religion tragen nicht mehr selbstverständlich. Gesucht werden andere Grundlagen – für das Erkennen ebenso wie für die Art, wie man lebt, arbeitet und mit anderen umgeht. Rudolf Steiners <em>Philosophie der Freiheit</em> von 1894 trägt bezeichnenderweise den Untertitel «Grundzüge einer modernen Weltanschauung» und fragt nach der Freiheit des Menschen von seinem eigenen Denken her.</p>
+
+      <p>In diesem Umfeld gewinnt die Frage nach Wiederverkörperung und Karma eine besondere Gestalt. Sie wird nicht als übernommene Lehre aufgegriffen, sondern als Frage, die der Einzelne an seine eigene Biografie, sein Erkennen und seine Lebensführung richtet. Das ist für mich der Kern dessen, was ich «europäische Karmaforschung» nenne: der Versuch, Schicksal aus individueller Erkenntnis zu verstehen statt aus Überlieferung.</p>
+
       <h2>Warum diese Spur so wenig beachtet ist</h2>
 
       <p>Rudolf Steiner hat 1904 in seiner Schrift <em>Theosophie</em> ein ganzes Kapitel der «Wiederverkörperung des Geistes und Schicksal» gewidmet. Er argumentiert dort zunächst mit Mitteln des Denkens: Der Mensch sei als geistige Individualität nicht aus Vererbung erklärbar, und das, was er tut, wirke als selbstgeschaffenes Schicksal auf ihn zurück. Zugleich sagt Steiner deutlich, dass das Denken auf diesem Weg nur zu einem Umriss gelangt. Die volle Bestätigung erwartet er von einer Erkenntnis, die durch Schulung erst gewonnen werden muss.</p>
@@ -43,6 +51,8 @@ B1 = '''    <article>
 
       <p>Diese Seite setzt den früheren Blog in neuer Gestalt fort. Etwa alle zwei Wochen erscheint ein Beitrag: zu einzelnen Autoren und Texten, zu Begriffen und ihrer Geschichte, zu methodischen Fragen. Jeder Beitrag nennt seine Quellen. Wo ich deute oder eine Arbeitshypothese formuliere, kennzeichne ich das.</p>
 
+      <p>Was ich dabei suche, sind Einsichten in eine «höhere» Erkenntnis, die dennoch reflektiert bleibt: die sich Rechenschaft darüber gibt, woher sie kommt, was sie zeigen kann und wo ihre Grenzen liegen. Weder blosse Spekulation noch ungeprüfte Schau, sondern ein Erkennen, das sich selbst über die Schulter schauen kann.</p>
+
       <p>Im nächsten Beitrag frage ich, bevor es um einzelne Autoren geht, nach den Voraussetzungen: Welche Arten von Wissen gibt es über Reinkarnation und Karma überhaupt – und auf welchen Ebenen lässt sich so etwas wie Ursache und Wirkung beobachten?</p>
 
       <hr class="rule">
@@ -51,6 +61,8 @@ B1 = '''    <article>
       <ul class="sources">
         <li>Alexander G. Höhne: <em>Europäische Karmaforschung. Fragmente einer Wissenschaft</em>. Books on Demand, 2012, 422 Seiten.</li>
         <li>Gotthold Ephraim Lessing: <em>Die Erziehung des Menschengeschlechts</em> (1777/1780), §§ 93–100. Online: <a href="https://germanhistorydocs.org/de/das-heilige-roemische-reich-1648-1815/ghdi:document-3588">German History in Documents and Images</a>.</li>
+        <li>Immanuel Kant: «Beantwortung der Frage: Was ist Aufklärung?», in: <em>Berlinische Monatsschrift</em>, Dezember 1784. Online: <a href="https://www.uni-siegen.de/infme/start_ifm/downloads/podcast_offene_gesellschaft/kant_aufklaerung.pdf">Universität Siegen (PDF)</a>.</li>
+        <li>Rudolf Steiner: <em>Die Philosophie der Freiheit. Grundzüge einer modernen Weltanschauung</em> (1894, GA 4). Online: <a href="https://www.gutenberg.org/ebooks/53493">Project Gutenberg</a>.</li>
         <li>Rudolf Steiner: <em>Theosophie. Einführung in übersinnliche Welterkenntnis und Menschenbestimmung</em> (1904, GA 9), Kapitel «Wiederverkörperung des Geistes und Schicksal».</li>
         <li>Zu Ian Stevenson und der Fortführung seiner Forschung: <a href="https://psi-encyclopedia.spr.ac.uk/articles/jim-b-tucker/">Psi Encyclopedia, Artikel «Jim B Tucker»</a>.</li>
       </ul>
@@ -61,7 +73,7 @@ B1 = '''    <article>
 B2_TITEL = "Wo sich Ursache und Wirkung zeigen"
 B2_ANRISS = "Bevor es um einzelne Autoren geht: welche Arten von Wissen es über Reinkarnation und Karma gibt – und auf welchen Ebenen sich Ursache und Wirkung beobachten lassen."
 B2 = '''    <article>
-      <div class="meta">11. Oktober 2026 &middot; <span class="tag">Methode</span></div>
+      <div class="meta">11. Oktober 2026 &middot; <span class="tag">Methode</span> &middot; nachträglich veröffentlicht im Oktober 2026</div>
       <h1>Wo sich Ursache und Wirkung zeigen</h1>
 
       <p>Wer über Karma spricht, spricht über Ursache und Wirkung: Was ich tue, kommt in irgendeiner Form auf mich zurück. So einfach der Satz klingt, so unklar ist, wo dieses Zurückkommen eigentlich stattfinden soll und wie man es bemerken könnte. Bevor ich mich in den nächsten Beiträgen einzelnen Autoren zuwende, möchte ich deshalb zwei Vorfragen ordnen. Welche Arten von Wissen über Reinkarnation und Karma gibt es? Und in welchen Feldern lässt sich ein Zusammenhang von Ursache und Wirkung überhaupt beobachten?</p>
@@ -112,6 +124,8 @@ B2 = '''    <article>
 
       <p>Für die Beiträge dieser Seite bedeutet das zweierlei. Ich werde jeweils sagen, aus welchem Wissensbestand eine Aussage stammt. Und ich werde nicht so tun, als könne ein Essay leisten, was nach Steiner nur der eigene Erkenntnisweg leisten kann. Ein Essay kann den Umriss nachzeichnen und die Fragen genau stellen.</p>
 
+      <p>Damit ist auch gesagt, welche Art von Erkenntnis ich hier suche. Sie darf «höher» sein als das gewöhnliche Erkennen, im Sinne der Stufen, die Steiner beschreibt. Sie muss aber reflektiert bleiben: Sie soll angeben können, auf welcher Stufe und in welchem Feld eine Aussage gewonnen ist, und sie soll den Unterschied zwischen Anschauung, Deutung und Begriff nicht verwischen.</p>
+
       <p>Wie Steiner selbst diese Felder nicht nur beschrieben, sondern auf der Bühne dargestellt hat, ist das Thema des nächsten Beitrags: Karma in den Mysteriendramen.</p>
 
       <hr class="rule">
@@ -143,13 +157,15 @@ liste_start = eintrag("11. Oktober 2026", "/blog/2026-10-11-ursache-und-wirkung.
 liste_blog = eintrag("11. Oktober 2026", "/blog/2026-10-11-ursache-und-wirkung.html", B2_TITEL, B2_ANRISS, "Methode") + eintrag("27. September 2026", "/blog/2026-09-27-europaeische-karmaforschung.html", B1_TITEL, B1_ANRISS, "Grundlagen")
 
 p = root/"index.html"; s = p.read_text()
-marker = "      <!-- Neueste Beiträge: wird bei jedem neuen Post oben ergänzt (max. 5) -->\n"
-assert marker in s
-s = s.replace(marker, marker + liste_start)
-s = s.replace('    <p class="meta" id="noch-keine">Der erste Beitrag erscheint am 25. Oktober 2026.</p>\n', '')
-p.write_text(s)
+if "2026-09-27-europaeische-karmaforschung" not in s:
+    marker = "      <!-- Neueste Beiträge: wird bei jedem neuen Post oben ergänzt (max. 5) -->\n"
+    assert marker in s
+    s = s.replace(marker, marker + liste_start)
+    s = s.replace('    <p class="meta" id="noch-keine">Der erste Beitrag erscheint am 25. Oktober 2026.</p>\n', '')
+    p.write_text(s)
 
 p = root/"blog"/"index.html"; s = p.read_text()
-marker = "      <!-- Neuester Beitrag zuoberst; beim Hinzufügen eines neuen Posts hier einen <li>-Block einfügen -->\n"
-assert marker in s
-p.write_text(s.replace(marker, marker + liste_blog))
+if "2026-09-27-europaeische-karmaforschung" not in s:
+    marker = "      <!-- Neuester Beitrag zuoberst; beim Hinzufügen eines neuen Posts hier einen <li>-Block einfügen -->\n"
+    assert marker in s
+    p.write_text(s.replace(marker, marker + liste_blog))
