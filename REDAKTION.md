@@ -44,6 +44,18 @@ Claude veröffentlicht nie selbst, mergt nie selbst und schreibt nie direkt auf 
   Massstab ist der Ton der bisherigen Beiträge auf mysteriendramen.ch.
 - Frühere IT-Tätigkeiten werden nicht erwähnt.
 
+## Methodische Haltung
+
+- Alexanders eigener Zugang ist **meditativ, seinsphilosophisch und hermeneutisch**
+  (im Gespräch mit Heidegger und Gadamer) sowie **ästhetisch** (mit Sloterdijk).
+- Empirische Reinkarnationsforschung (Ian Stevenson und Nachfolge an der
+  University of Virginia) wird referiert und eingeordnet, aber nicht als
+  eigene Methode vertreten. Die Beiträge machen keine empirischen Beweisansprüche.
+- Philosophische Bezüge (Heidegger, Gadamer, Sloterdijk) werden genau belegt;
+  ihre Anwendung auf die Karmafrage ist Alexanders Deutung und wird als solche
+  erkennbar gemacht – keinem dieser Autoren wird eine Position zu Reinkarnation
+  zugeschrieben, die er nicht nachweislich vertreten hat.
+
 ## Quellen
 
 - **Nur verifizierte Quellen.** Jedes Zitat und jede Datierung wird vor dem
