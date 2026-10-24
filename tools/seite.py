@@ -69,7 +69,7 @@ if __name__ == "__main__":
     <ul class="post-list" id="recent-posts">
       <!-- Neueste Beiträge: wird bei jedem neuen Post oben ergänzt (max. 5) -->
     </ul>
-    <p class="meta" id="noch-keine">Der erste Beitrag erscheint am 8. November 2026.</p>
+    <p class="meta" id="noch-keine">Der erste Beitrag erscheint am 25. Oktober 2026.</p>
 
     <p><a href="/blog/">Alle Beiträge im Archiv →</a></p>
 '''

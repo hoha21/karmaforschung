@@ -7,8 +7,10 @@ Arbeitsgrundlage für Alexander und für Claude. Die geplante Aufgabe
 
 - Ein Beitrag alle zwei Wochen, **sonntags**, im Wechsel mit mysteriendramen.ch
   (dort erscheinen die Beiträge an den jeweils anderen Sonntagen).
-- Erster Beitrag: **Sonntag, 8. November 2026**, danach 22.11., 6.12., 20.12. usw.
-- Der Entwurf entsteht jeweils am **Mittwoch davor**, damit Zeit zum Prüfen bleibt.
+- Erster Beitrag: **Sonntag, 25. Oktober 2026**, danach 8.11., 22.11., 6.12. usw.
+- Der Entwurf entsteht jeweils **am selben Sonntag gegen 23 Uhr**; das
+  Erscheinungsdatum im Beitrag ist dieser Sonntag. Online geht er, sobald
+  Alexander den Pull Request mergt.
 
 ## Ablauf: vom Entwurf zur Veröffentlichung
 
