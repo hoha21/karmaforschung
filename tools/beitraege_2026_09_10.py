@@ -11,7 +11,13 @@ B1 = '''    <article>
       <div class="meta">27. September 2026 &middot; <span class="tag">Grundlagen</span> &middot; nachträglich veröffentlicht im Oktober 2026</div>
       <h1>Warum eine europäische Karmaforschung?</h1>
 
-      <p>Wer heute das Wort «Karma» hört, denkt meist an Indien. Das Wort stammt aus dem Sanskrit, und die Vorstellung, dass ein Mensch mehr als einmal lebt, verbinden die meisten mit Hinduismus und Buddhismus – oder mit einer westlichen Esoterik, die sich aus diesen Quellen bedient. Mich beschäftigt seit langem eine andere Spur: dass es in Europa eine eigene Auseinandersetzung mit Wiederverkörperung und Schicksal gibt, mit eigenen Fragen, eigenen Begriffen und einer eigenen Geschichte.</p>
+      <p>Wer heute das Wort „Karma“ hört, denkt meist an Indien. Das Wort stammt aus dem Sanskrit, und die Vorstellung, dass ein Mensch mehr als einmal lebt, verbinden die meisten mit Hinduismus und Buddhismus – oder mit einer westlichen Esoterik, die sich aus diesen Quellen bedient. Mich beschäftigt seit langem eine andere Spur: dass es in Europa eine eigene Auseinandersetzung mit Wiederverkörperung und Schicksal gibt, mit eigenen Fragen, eigenen Begriffen und einer eigenen Geschichte.</p>
+
+      <h2>Wie die Frage zu mir kam</h2>
+
+      <p>Zu mir kam diese Frage nicht zuerst über Bücher. Mit vierzehn Jahren war ich in Athen und hatte dort eine Erinnerung an ein Lernen von Mathematik im antiken Griechenland. Mit neunzehn erlitt ich einen anaphylaktischen Schock mit Herzstillstand und hatte eine Nahtoderfahrung. Sie hat mir fragmentarisch bestätigt, dass Bewusstsein von der Sinneserfahrung unabhängig sein kann, und sie hat mir eine Ich-Erfahrung im „Seelenraum“ erlaubt.</p>
+
+      <p>Ich erzähle das nicht als Beweis. Es sind Erfahrungen, die mich nach einem Zusammenhang haben fragen lassen. Was sie bedeuten, lässt sich nicht einfach glauben; es will reflektiert, unterschieden und mit dem verbunden werden, was andere vor mir gedacht und erfahren haben. Genau darin liegt für mich die Aufgabe einer Karmaforschung.</p>
 
       <h2>Ein früherer Anlauf</h2>
 
@@ -21,7 +27,7 @@ B1 = '''    <article>
 
       <h2>Eine Frage aus dem 18. Jahrhundert</h2>
 
-      <p>Wie früh diese Spur beginnt, zeigt ein kleiner Text von Gotthold Ephraim Lessing, <em>Die Erziehung des Menschengeschlechts</em>. Über weite Strecken handelt er davon, wie die Menschheit als Ganzes durch die Geschichte hindurch lernt. Gegen Ende aber wendet Lessing den Blick vom Geschlecht auf den einzelnen Menschen und stellt im Paragraphen 94 eine schlichte Frage: Warum sollte nicht jeder Einzelne «mehr als einmal auf dieser Welt vorhanden gewesen sein»? Im nächsten Paragraphen fragt er zurück, ob diese Hypothese etwa deshalb lächerlich sei, weil sie die älteste ist.</p>
+      <p>Wie früh diese Spur beginnt, zeigt ein kleiner Text von Gotthold Ephraim Lessing, <em>Die Erziehung des Menschengeschlechts</em>. Über weite Strecken handelt er davon, wie die Menschheit als Ganzes durch die Geschichte hindurch lernt. Gegen Ende aber wendet Lessing den Blick vom Geschlecht auf den einzelnen Menschen und stellt im Paragraphen 94 eine schlichte Frage: Warum sollte nicht jeder Einzelne „mehr als einmal auf dieser Welt vorhanden gewesen sein“? Im nächsten Paragraphen fragt er zurück, ob diese Hypothese etwa deshalb lächerlich sei, weil sie die älteste ist.</p>
 
       <p>Mich berührt an diesen Paragraphen weniger die Antwort als die Form. Lessing verkündet keine Lehre. Er stellt eine Frage, nennt sie eine Hypothese und denkt sie im Zusammenhang mit Lernen und Entwicklung. Darin sehe ich einen Grundzug der europäischen Auseinandersetzung mit dem Thema: Wiederverkörperung nicht als übernommene Überzeugung, sondern als Frage an das eigene Denken.</p>
 
@@ -29,21 +35,21 @@ B1 = '''    <article>
 
       <h2>Eigene Einsicht statt vorgefundener Ordnung</h2>
 
-      <p>Lessings Frage gehört in das Zeitalter der Aufklärung. Wenige Jahre später, im Dezember 1784, bestimmte Immanuel Kant in der <em>Berlinischen Monatsschrift</em> die Aufklärung als «Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit» und forderte dazu auf, sich des eigenen Verstandes zu bedienen. Damit ist ein Anspruch formuliert, der die europäische Moderne nicht mehr loslässt: Erkenntnis soll auf eigener Einsicht beruhen und nicht allein auf Autorität.</p>
+      <p>Lessings Frage gehört in das Zeitalter der Aufklärung. Wenige Jahre später, im Dezember 1784, bestimmte Immanuel Kant in der <em>Berlinischen Monatsschrift</em> die Aufklärung als „Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit“ und forderte dazu auf, sich des eigenen Verstandes zu bedienen. Damit ist ein Anspruch formuliert, der die europäische Moderne nicht mehr loslässt: Erkenntnis soll auf eigener Einsicht beruhen und nicht allein auf Autorität.</p>
 
-      <p>Um 1900 wird dieser Anspruch für viele Menschen zu einer Frage der ganzen Lebensführung. Tradition, die vorgefundene Gesellschaftsordnung und die institutionelle Religion tragen nicht mehr selbstverständlich. Gesucht werden andere Grundlagen – für das Erkennen ebenso wie für die Art, wie man lebt, arbeitet und mit anderen umgeht. Rudolf Steiners <em>Philosophie der Freiheit</em> von 1894 trägt bezeichnenderweise den Untertitel «Grundzüge einer modernen Weltanschauung» und fragt nach der Freiheit des Menschen von seinem eigenen Denken her.</p>
+      <p>Um 1900 wird dieser Anspruch für viele Menschen zu einer Frage der ganzen Lebensführung. Tradition, die vorgefundene Gesellschaftsordnung und die institutionelle Religion tragen nicht mehr selbstverständlich. Gesucht werden andere Grundlagen – für das Erkennen ebenso wie für die Art, wie man lebt, arbeitet und mit anderen umgeht. Rudolf Steiners <em>Philosophie der Freiheit</em> von 1894 trägt bezeichnenderweise den Untertitel „Grundzüge einer modernen Weltanschauung“ und fragt nach der Freiheit des Menschen von seinem eigenen Denken her.</p>
 
-      <p>In diesem Umfeld gewinnt die Frage nach Wiederverkörperung und Karma eine besondere Gestalt. Sie wird nicht als übernommene Lehre aufgegriffen, sondern als Frage, die der Einzelne an seine eigene Biografie, sein Erkennen und seine Lebensführung richtet. Das ist für mich der Kern dessen, was ich «europäische Karmaforschung» nenne: der Versuch, Schicksal aus individueller Erkenntnis zu verstehen statt aus Überlieferung.</p>
+      <p>In diesem Umfeld gewinnt die Frage nach Wiederverkörperung und Karma eine besondere Gestalt. Sie wird nicht als übernommene Lehre aufgegriffen, sondern als Frage, die der Einzelne an seine eigene Biografie, sein Erkennen und seine Lebensführung richtet. Das ist für mich der Kern dessen, was ich „europäische Karmaforschung“ nenne: der Versuch, Schicksal aus individueller Erkenntnis zu verstehen statt aus Überlieferung.</p>
 
       <h2>Warum diese Spur so wenig beachtet ist</h2>
 
-      <p>Rudolf Steiner hat 1904 in seiner Schrift <em>Theosophie</em> ein ganzes Kapitel der «Wiederverkörperung des Geistes und Schicksal» gewidmet. Er argumentiert dort zunächst mit Mitteln des Denkens: Der Mensch sei als geistige Individualität nicht aus Vererbung erklärbar, und das, was er tut, wirke als selbstgeschaffenes Schicksal auf ihn zurück. Zugleich sagt Steiner deutlich, dass das Denken auf diesem Weg nur zu einem Umriss gelangt. Die volle Bestätigung erwartet er von einer Erkenntnis, die durch Schulung erst gewonnen werden muss.</p>
+      <p>Rudolf Steiner hat 1904 in seiner Schrift <em>Theosophie</em> ein ganzes Kapitel der „Wiederverkörperung des Geistes und Schicksal“ gewidmet. Er argumentiert dort zunächst mit Mitteln des Denkens: Der Mensch sei als geistige Individualität nicht aus Vererbung erklärbar, und das, was er tut, wirke als selbstgeschaffenes Schicksal auf ihn zurück. Zugleich sagt Steiner deutlich, dass das Denken auf diesem Weg nur zu einem Umriss gelangt. Die volle Bestätigung erwartet er von einer Erkenntnis, die durch Schulung erst gewonnen werden muss.</p>
 
       <p>Hier liegt, so verstehe ich es, der Grund für die Zurückhaltung der Universitäten. Eine Forschung, die von ihren Teilnehmern eine innere Übung verlangt, passt schlecht zu einem Wissenschaftsverständnis, das Ergebnisse unabhängig von der Person des Forschenden überprüfbar machen will. Das muss kein Einwand gegen diese Forschung sein. Es ist aber eine Spannung, die man offen benennen sollte, statt sie zu überspielen.</p>
 
       <h2>Was sich seither verändert hat</h2>
 
-      <p>Seit dem Buch sind viele Jahre vergangen, und eigene Studien haben meinen Bezugshorizont erweitert. Mein methodischer Ausgangsort ist Rudolf Steiner geblieben – gerade auch dort, wo er karmische Zusammenhänge nicht erklärt, sondern auf der Bühne darstellt: in seinen vier Mysteriendramen, mit denen ich mich als Forscher und Dramaturg seit Jahrzehnten beschäftige (mehr dazu auf <a href="https://mysteriendramen.ch">mysteriendramen.ch</a>). Von dort aus suche ich das Gespräch mit der Seinsphilosophie Martin Heideggers und der Hermeneutik Hans-Georg Gadamers, und mit Peter Sloterdijk frage ich nach der ästhetischen Seite des Themas.</p>
+      <p>Seit dem Buch sind viele Jahre vergangen, und eigene Studien haben meinen Bezugshorizont erweitert. Mein methodischer Ausgangsort ist Rudolf Steiner geblieben – gerade auch dort, wo er karmische Zusammenhänge nicht erklärt, sondern auf der Bühne darstellt: in seinen vier Mysteriendramen, mit denen ich mich als Forscher und langjähriger dramaturgischer Berater seit Jahrzehnten beschäftige (mehr dazu auf <a href="https://mysteriendramen.ch">mysteriendramen.ch</a>). Von dort aus suche ich das Gespräch mit der Seinsphilosophie Martin Heideggers und der Hermeneutik Hans-Georg Gadamers, und mit Peter Sloterdijk frage ich nach der ästhetischen Seite des Themas.</p>
 
       <p>Daneben gibt es eine empirische Forschung, die es 2012 in meinem Blickfeld kaum gab: die Fallstudien, die der Psychiater Ian Stevenson an der University of Virginia begonnen hat und die dort nach seinem Ruhestand fortgeführt wurden. Sie prüfen Aussagen von Kindern, die sich an ein früheres Leben zu erinnern scheinen, an Dokumenten und Zeugenaussagen. Ich werde diese Arbeiten hier darstellen und einordnen. Meine eigene Methode sind sie nicht.</p>
 
@@ -51,7 +57,7 @@ B1 = '''    <article>
 
       <p>Diese Seite setzt den früheren Blog in neuer Gestalt fort. Etwa alle zwei Wochen erscheint ein Beitrag: zu einzelnen Autoren und Texten, zu Begriffen und ihrer Geschichte, zu methodischen Fragen. Jeder Beitrag nennt seine Quellen. Wo ich deute oder eine Arbeitshypothese formuliere, kennzeichne ich das.</p>
 
-      <p>Was ich dabei suche, sind Einsichten in eine «höhere» Erkenntnis, die dennoch reflektiert bleibt: die sich Rechenschaft darüber gibt, woher sie kommt, was sie zeigen kann und wo ihre Grenzen liegen. Weder blosse Spekulation noch ungeprüfte Schau, sondern ein Erkennen, das sich selbst über die Schulter schauen kann.</p>
+      <p>Was ich dabei suche, sind Einsichten in eine „höhere“ Erkenntnis, die dennoch reflektiert bleibt: die sich Rechenschaft darüber gibt, woher sie kommt, was sie zeigen kann und wo ihre Grenzen liegen. Weder blosse Spekulation noch ungeprüfte Schau, sondern ein Erkennen, das sich selbst über die Schulter schauen kann.</p>
 
       <p>Im nächsten Beitrag frage ich, bevor es um einzelne Autoren geht, nach den Voraussetzungen: Welche Arten von Wissen gibt es über Reinkarnation und Karma überhaupt – und auf welchen Ebenen lässt sich so etwas wie Ursache und Wirkung beobachten?</p>
 
@@ -61,10 +67,10 @@ B1 = '''    <article>
       <ul class="sources">
         <li>Alexander G. Höhne: <em>Europäische Karmaforschung. Fragmente einer Wissenschaft</em>. Books on Demand, 2012, 422 Seiten.</li>
         <li>Gotthold Ephraim Lessing: <em>Die Erziehung des Menschengeschlechts</em> (1777/1780), §§ 93–100. Online: <a href="https://germanhistorydocs.org/de/das-heilige-roemische-reich-1648-1815/ghdi:document-3588">German History in Documents and Images</a>.</li>
-        <li>Immanuel Kant: «Beantwortung der Frage: Was ist Aufklärung?», in: <em>Berlinische Monatsschrift</em>, Dezember 1784. Online: <a href="https://www.uni-siegen.de/infme/start_ifm/downloads/podcast_offene_gesellschaft/kant_aufklaerung.pdf">Universität Siegen (PDF)</a>.</li>
+        <li>Immanuel Kant: „Beantwortung der Frage: Was ist Aufklärung?“, in: <em>Berlinische Monatsschrift</em>, Dezember 1784. Online: <a href="https://www.uni-siegen.de/infme/start_ifm/downloads/podcast_offene_gesellschaft/kant_aufklaerung.pdf">Universität Siegen (PDF)</a>.</li>
         <li>Rudolf Steiner: <em>Die Philosophie der Freiheit. Grundzüge einer modernen Weltanschauung</em> (1894, GA 4). Online: <a href="https://www.gutenberg.org/ebooks/53493">Project Gutenberg</a>.</li>
-        <li>Rudolf Steiner: <em>Theosophie. Einführung in übersinnliche Welterkenntnis und Menschenbestimmung</em> (1904, GA 9), Kapitel «Wiederverkörperung des Geistes und Schicksal».</li>
-        <li>Zu Ian Stevenson und der Fortführung seiner Forschung: <a href="https://psi-encyclopedia.spr.ac.uk/articles/jim-b-tucker/">Psi Encyclopedia, Artikel «Jim B Tucker»</a>.</li>
+        <li>Rudolf Steiner: <em>Theosophie. Einführung in übersinnliche Welterkenntnis und Menschenbestimmung</em> (1904, GA 9), Kapitel „Wiederverkörperung des Geistes und Schicksal“.</li>
+        <li>Zu Ian Stevenson und der Fortführung seiner Forschung: <a href="https://psi-encyclopedia.spr.ac.uk/articles/jim-b-tucker/">Psi Encyclopedia, Artikel „Jim B Tucker“</a>.</li>
       </ul>
 
       <p class="meta"><a href="/blog/">← Alle Beiträge</a></p>
@@ -84,9 +90,9 @@ B2 = """    <article>
 
       <h2>Sinnzusammenhänge entbergen</h2>
 
-      <p>Damit bewegen wir uns auf der Ebene des Sinns. Martin Heidegger hat im Anschluss an die Phänomenologie Edmund Husserls beschrieben, dass wir nicht erst nachträglich Bedeutungen an eine sinnlose Welt herantragen, sondern immer schon in Sinnzusammenhängen stehen. Diese Zusammenhänge erschliessen sich mit der Wahrnehmung. Oft aber sind sie verborgen – das alte, heute verrufene Wort «okkult» kommt vom lateinischen <em>occultus</em> und bedeutet nichts anderes. Sie müssen durch Reflexion und Unterscheidung erst hervorgeholt werden. Heidegger hat Wahrheit in <em>Sein und Zeit</em> von diesem Hervorholen her gedacht, als Unverborgenheit; in seiner Sprache heisst der Vorgang Entbergen.</p>
+      <p>Damit bewegen wir uns auf der Ebene des Sinns. Martin Heidegger hat im Anschluss an die Phänomenologie Edmund Husserls beschrieben, dass wir nicht erst nachträglich Bedeutungen an eine sinnlose Welt herantragen, sondern immer schon in Sinnzusammenhängen stehen. Diese Zusammenhänge erschliessen sich mit der Wahrnehmung. Oft aber sind sie verborgen – das alte, heute verrufene Wort „okkult“ kommt vom lateinischen <em>occultus</em> und bedeutet nichts anderes. Sie müssen durch Reflexion und Unterscheidung erst hervorgeholt werden. Heidegger hat Wahrheit in <em>Sein und Zeit</em> von diesem Hervorholen her gedacht, als Unverborgenheit. In seinem späteren Vortrag <em>Die Frage nach der Technik</em> (1953) nennt er den Vorgang Entbergen.</p>
 
-      <p>Eine Form dieses Entbergens ist die Kunst des Verstehens, wie sie Hans-Georg Gadamer in <em>Wahrheit und Methode</em> (1960) als philosophische Hermeneutik entfaltet hat. Verstehen ist etwas anderes als naturwissenschaftliches Erklären. Die Unterscheidung geht auf Wilhelm Dilthey zurück, der 1894 das Erklären der Naturwissenschaften vom Verstehen menschlichen Lebens abgehoben hat. Gadamer hat sich ausdrücklich dagegen gewandt, die Geisteswissenschaften nach dem Vorbild der Naturwissenschaften zu formen. Für die Karmafrage heisst das: Ein Schicksalszusammenhang wird nicht erklärt wie ein physikalischer Vorgang, sondern verstanden wie ein Text, in dem man selbst vorkommt.</p>
+      <p>Eine Form dieses Entbergens ist die Kunst des Verstehens, wie sie Hans-Georg Gadamer in <em>Wahrheit und Methode</em> (1960) als philosophische Hermeneutik entfaltet hat. Verstehen ist etwas anderes als naturwissenschaftliches Erklären. Die Unterscheidung ist vor allem mit dem Namen Wilhelm Dilthey verbunden, der 1894 das Erklären der Naturwissenschaften vom Verstehen menschlichen Lebens abgehoben hat. Gadamer hat sich ausdrücklich dagegen gewandt, die Geisteswissenschaften nach dem Vorbild der Naturwissenschaften zu formen. Für die Karmafrage heisst das: Ein Schicksalszusammenhang wird nicht erklärt wie ein physikalischer Vorgang, sondern verstanden wie ein Text, in dem man selbst vorkommt.</p>
 
       <p class="note">Deutung: Die Übertragung von Heideggers Unverborgenheit und Gadamers Verstehen auf die Karmafrage ist meine Lesart. Keiner der beiden hat sich in dieser Weise zu Reinkarnation oder Karma geäussert.</p>
 
@@ -109,7 +115,7 @@ B2 = """    <article>
 
       <h2>Stufen des Erkennens</h2>
 
-      <p>Für das dritte Feld hat Steiner eine eigene Gliederung gegeben, in Aufsätzen, die 1905 in der Zeitschrift <em>Lucifer-Gnosis</em> erschienen und später als <em>Die Stufen der höheren Erkenntnis</em> (GA 12) gesammelt wurden. Die gewöhnliche Erkenntnis lebt von Sinneseindruck, Bild, Begriff und dem Ich, das alles zusammenhält. In der Imagination fallen die Sinneseindrücke weg, und es bleiben Bilder, die keinem äusseren Gegenstand entstammen. In der Inspiration treten auch die Bilder zurück; die geistige Welt wird eher wie eine Sprache vernommen. In der Intuition bleibt nur das Ich, das nicht mehr von aussen betrachtet, sondern in den Dingen selbst lebt. Das Denken, so Steiner in der <em>Theosophie</em>, kann den Gedanken wiederholter Erdenleben fassen, gelangt aber nur zu einem Umriss; dessen Anschauung setzt die höheren Stufen voraus.</p>
+      <p>Für den Weg in dieses dritte Feld hat Steiner Stufen des Erkennens beschrieben, in Aufsätzen, die 1905 in der Zeitschrift <em>Lucifer-Gnosis</em> erschienen und später als <em>Die Stufen der höheren Erkenntnis</em> (GA 12) gesammelt wurden. Die gewöhnliche Erkenntnis lebt von Sinneseindruck, Bild, Begriff und dem Ich, das alles zusammenhält. In der Imagination fallen die Sinneseindrücke weg, und es bleiben Bilder, die keinem äusseren Gegenstand entstammen. In der Inspiration treten auch die Bilder zurück; die geistige Welt wird eher wie eine Sprache vernommen. In der Intuition bleibt nur das Ich, das nicht mehr von aussen betrachtet, sondern in den Dingen selbst lebt. Das Denken, so Steiner in der <em>Theosophie</em>, kann den Gedanken wiederholter Erdenleben fassen, gelangt aber nur zu einem Umriss; dessen Anschauung setzt die höheren Stufen voraus.</p>
 
       <h2>Viele Formen des Wissens</h2>
 
@@ -131,7 +137,7 @@ B2 = """    <article>
 
       <p>Aus alldem ziehe ich eine Folgerung, die für diese Seite massgeblich ist. Die Lehre von Reinkarnation und Karma ist nicht schon deshalb bedeutsam, weil sie alt ist oder weil viele Menschen sie vertreten. Bedeutung gewinnt sie nur dort, wo sie Erfahrung informiert oder differenziert – wo sie hilft, das eigene Leben genauer wahrzunehmen – und wo sie zu einer Erweiterung oder Vertiefung des Horizonts beitragen kann. Das Wort Horizont nehme ich dabei bewusst aus Gadamers Hermeneutik auf.</p>
 
-      <p>Damit ist auch gesagt, welche Art von Erkenntnis ich hier suche. Sie darf «höher» sein als das gewöhnliche Erkennen, im Sinne der Stufen, die Steiner beschreibt. Sie muss aber reflektiert bleiben: Sie soll angeben können, in welchem Feld und aus welchem Wissensbestand eine Aussage stammt, und sie soll den Unterschied zwischen Anschauung, Deutung und Begriff nicht verwischen.</p>
+      <p>Auch die Art von Erkenntnis, die ich hier suche, ist damit umrissen. Sie darf „höher“ sein als das gewöhnliche Erkennen, im Sinne der Stufen, die Steiner beschreibt. Sie muss aber reflektiert bleiben: Sie soll angeben können, in welchem Feld und aus welchem Wissensbestand eine Aussage stammt, und sie soll den Unterschied zwischen Anschauung, Deutung und Begriff nicht verwischen.</p>
 
       <p>Eine besondere Form des performativen Wissens ist das Theater. Wie Steiner karmische Zusammenhänge nicht nur beschrieben, sondern auf die Bühne gebracht hat, ist das Thema des nächsten Beitrags: Karma in den Mysteriendramen.</p>
 
@@ -139,13 +145,14 @@ B2 = """    <article>
 
       <h2>Quellen</h2>
       <ul class="sources">
-        <li>Rudolf Steiner: <em>Theosophie. Einführung in übersinnliche Welterkenntnis und Menschenbestimmung</em> (1904, GA 9), Kapitel «Das Wesen des Menschen» und «Wiederverkörperung des Geistes und Schicksal». Englische Übersetzung online: <a href="https://www.rsarchive.org/Books/GA009/English/RSP1965/GA009_c02.html">Rudolf Steiner Archive</a>.</li>
+        <li>Rudolf Steiner: <em>Theosophie. Einführung in übersinnliche Welterkenntnis und Menschenbestimmung</em> (1904, GA 9), Kapitel „Das Wesen des Menschen“ und „Wiederverkörperung des Geistes und Schicksal“. Englische Übersetzung online: <a href="https://www.rsarchive.org/Books/GA009/English/RSP1965/GA009_c02.html">Rudolf Steiner Archive</a>.</li>
         <li>Rudolf Steiner: <em>Die Stufen der höheren Erkenntnis</em> (GA 12), zuerst 1905 in <em>Lucifer-Gnosis</em>. Englische Übersetzung online: <a href="https://rsarchive.org/Books/GA012/English/AP1967/GA012_c01.html">Rudolf Steiner Archive</a>.</li>
-        <li>Martin Heidegger: <em>Sein und Zeit</em> (1927), bes. § 44 zur Wahrheit als Unverborgenheit. Überblick: <a href="https://www.cambridge.org/core/books/abs/heideggers-being-and-time/truth/147E417B48F848BD74FC5E49D1D3CCFA">Cambridge University Press, Kapitel «Truth»</a>.</li>
-        <li>Hans-Georg Gadamer: <em>Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik</em> (1960). Überblick: <a href="https://en.wikipedia.org/wiki/Truth_and_Method">Wikipedia, «Truth and Method»</a>.</li>
-        <li>Wilhelm Dilthey: <em>Ideen über eine beschreibende und zergliedernde Psychologie</em> (1894). Zur Unterscheidung von Erklären und Verstehen: <a href="https://plato.stanford.edu/entries/dilthey">Stanford Encyclopedia of Philosophy, «Wilhelm Dilthey»</a>.</li>
+        <li>Martin Heidegger: <em>Sein und Zeit</em> (1927), bes. § 44 zur Wahrheit als Unverborgenheit. Überblick: <a href="https://www.cambridge.org/core/books/abs/heideggers-being-and-time/truth/147E417B48F848BD74FC5E49D1D3CCFA">Cambridge University Press, Kapitel „Truth“</a>.</li>
+        <li>Martin Heidegger: <em>Die Frage nach der Technik</em> (Vortrag 1953). Überblick: <a href="https://charlesreid1.com/wiki/The_Question_Concerning_Technology">„The Question Concerning Technology“</a>.</li>
+        <li>Hans-Georg Gadamer: <em>Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik</em> (1960). Überblick: <a href="https://en.wikipedia.org/wiki/Truth_and_Method">Wikipedia, „Truth and Method“</a>.</li>
+        <li>Wilhelm Dilthey: <em>Ideen über eine beschreibende und zergliedernde Psychologie</em> (1894). Zur Unterscheidung von Erklären und Verstehen: <a href="https://plato.stanford.edu/entries/dilthey">Stanford Encyclopedia of Philosophy, „Wilhelm Dilthey“</a>.</li>
         <li>Gotthold Ephraim Lessing: <em>Die Erziehung des Menschengeschlechts</em> (1777/1780), §§ 93–100. Online: <a href="https://germanhistorydocs.org/de/das-heilige-roemische-reich-1648-1815/ghdi:document-3588">German History in Documents and Images</a>.</li>
-        <li>Zu Ian Stevenson: <a href="https://psi-encyclopedia.spr.ac.uk/articles/jim-b-tucker/">Psi Encyclopedia, Artikel «Jim B Tucker»</a>.</li>
+        <li>Zu Ian Stevenson: <a href="https://psi-encyclopedia.spr.ac.uk/articles/jim-b-tucker/">Psi Encyclopedia, Artikel „Jim B Tucker“</a>.</li>
       </ul>
 
       <p class="meta"><a href="/blog/">← Alle Beiträge</a></p>
