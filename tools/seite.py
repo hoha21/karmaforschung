@@ -61,9 +61,9 @@ if __name__ == "__main__":
 
     <p>Ein Grund dafür liegt wohl in ihrer Methode. Wer Karmaforschung nicht nur als Ideengeschichte betreiben will, kommt um die Frage nach meditativer Vertiefung nicht herum – und damit um einen Erkenntnisweg, der sich den gewohnten Verfahren der Wissenschaft nicht ohne Weiteres fügt. Gerade diese Spannung interessiert mich: Was lässt sich über diese Tradition genau und überprüfbar sagen, und wo beginnt das Feld der Deutung?</p>
 
-    <p>2012 habe ich diesen Fragen ein Buch gewidmet: <em>Europäische Karmaforschung. Fragmente einer Wissenschaft</em> (Books on Demand, 422 Seiten). Der Untertitel war ernst gemeint – es ging um Bruchstücke, nicht um ein abgeschlossenes System. Jetzt nehme ich das Vorhaben wieder auf. Seither sind verschiedene Studien erschienen, die das Feld anders ausleuchten, und sie verändern auch meinen eigenen Zugang. Diese Seite ist deshalb keine Neuauflage des Buches, sondern seine Fortsetzung in neuer Gestalt.</p>
+    <p>2012 habe ich diesen Fragen ein Buch gewidmet: <em>Europäische Karmaforschung. Fragmente einer Wissenschaft</em> (Books on Demand, 422 Seiten). Der Untertitel war ernst gemeint – es ging um Bruchstücke, nicht um ein abgeschlossenes System. Jetzt nehme ich das Vorhaben wieder auf. In den Jahren seither haben mich eigene Studien zu einem erweiterten Bezugshorizont geführt, und aus ihm heraus gestalte ich die Fragestellung neu. Diese Seite ist deshalb keine Neuauflage des Buches, sondern seine Fortsetzung in neuer Gestalt.</p>
 
-    <p>Hier sammle ich dazu kurze, essayistische Beiträge – zu einzelnen Autoren und Texten, zu Begriffen und ihrer Geschichte, zu neueren Forschungen und zu methodischen Fragen. Quellen werden belegt; wo ich deute oder eine Arbeitshypothese formuliere, sage ich das dazu.</p>
+    <p>Hier sammle ich dazu kurze, essayistische Beiträge – zu einzelnen Autoren und Texten, zu Begriffen und ihrer Geschichte und zu methodischen Fragen. Quellen werden belegt; wo ich deute oder eine Arbeitshypothese formuliere, sage ich das dazu.</p>
 
     <hr class="rule">
 
