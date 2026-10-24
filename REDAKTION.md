@@ -39,6 +39,9 @@ Claude veröffentlicht nie selbst, mergt nie selbst und schreibt nie direkt auf 
 ## Sprache und Stimme
 
 - Schweizer Rechtschreibung: **ss statt ß** (wie mysteriendramen.ch).
+- Anführungszeichen: deutsche „…“ (Hauskonvention wie auf mysteriendramen.ch).
+- Vor jeder Veröffentlichung wird der Skill **mysteriendramen-blog-lektorat** sinngemäss
+  angewendet (Sprachrichtigkeit, Stimme, Belegstatus).
 - Ich-Perspektive Alexanders; Ton zugänglich-essayistisch, nicht akademisch-schwer,
   aber genau. Länge etwa 900–1500 Wörter.
 - Keine KI-Floskeln: keine Bedeutungsbehauptungen («spielt eine zentrale Rolle»),
