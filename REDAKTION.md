@@ -7,7 +7,8 @@ Arbeitsgrundlage für Alexander und für Claude. Die geplante Aufgabe
 
 - Ein Beitrag alle zwei Wochen, **sonntags**, im Wechsel mit mysteriendramen.ch
   (dort erscheinen die Beiträge an den jeweils anderen Sonntagen).
-- Erster Beitrag: **Sonntag, 25. Oktober 2026**, danach 8.11., 22.11., 6.12. usw.
+- Erste Beiträge: 27.09. und 11.10.2026 (nachträglich angelegt); der Zyklus läuft ab
+  **Sonntag, 25. Oktober 2026**, danach 8.11., 22.11., 6.12. usw.
 - Der Entwurf entsteht jeweils **am selben Sonntag gegen 23 Uhr**; das
   Erscheinungsdatum im Beitrag ist dieser Sonntag. Online geht er, sobald
   Alexander den Pull Request mergt.
@@ -21,6 +22,8 @@ Arbeitsgrundlage für Alexander und für Claude. Die geplante Aufgabe
      (höchstens fünf Einträge; der Hinweis `id="noch-keine"` wird beim ersten
      Beitrag entfernt),
    - den Status in `REDAKTIONSPLAN.md` («Entwurf liegt vor»).
+   Sind noch frühere Entwurfs-Pull-Requests offen, baut der neue Zweig auf dem
+   neuesten offenen Entwurfszweig auf, damit die Beitragslisten zusammenpassen.
 2. Claude öffnet dazu einen **Pull Request** gegen `main` mit dem Titel
    «Entwurf: <Titel> (<Datum>)». In der Beschreibung: Kurzinhalt, verwendete
    Quellen, offene Fragen und alle Stellen, die als Deutung markiert sind.
