@@ -5,7 +5,7 @@ Arbeitsgrundlage für Alexander und für Claude. Die geplante Aufgabe
 
 ## Rhythmus
 
-- Ein Beitrag alle zwei Wochen, **sonntags**, im Wechsel mit mysteriendramen.ch
+- In der Regel ein Beitrag alle zwei Wochen, **sonntags**, im Wechsel mit mysteriendramen.ch; zusätzliche Beiträge sind jederzeit möglich
   (dort erscheinen die Beiträge an den jeweils anderen Sonntagen).
 - Erste Beiträge: 27.09. und 11.10.2026 (nachträglich angelegt); der Zyklus läuft ab
   **Sonntag, 25. Oktober 2026**, danach 8.11., 22.11., 6.12. usw.
