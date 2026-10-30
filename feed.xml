@@ -6,7 +6,7 @@
     <description>Reinkarnation und Karma in der europäischen Geistesgeschichte</description>
     <language>de-ch</language>
     <atom:link href="https://karmaforschung.ch/feed.xml" rel="self" type="application/rss+xml"/>
-    <!-- Neuester Beitrag zuoberst; bei jedem neuen Beitrag ein <item> oben einfügen -->
+    <!-- Wird von tools/sitemap_feed.py erzeugt; nicht von Hand bearbeiten -->
     <item>
       <title>Karma auf der Bühne</title>
       <link>https://karmaforschung.ch/blog/2026-10-25-karma-auf-der-buehne.html</link>

@@ -27,10 +27,9 @@ Es gibt keine Pull Requests mehr.
    - den Eintrag zuoberst in `blog/index.html`,
    - den Eintrag zuoberst in der Liste «Neueste Beiträge» in `index.html`
      (höchstens fünf Einträge),
-   - einen `<url>`-Eintrag für den neuen Beitrag in `sitemap.xml`
-     (`<lastmod>` = Erscheinungsdatum),
-   - einen `<item>`-Eintrag zuoberst in `feed.xml` (RSS: Titel, Link, Datum,
-     Rubrik, Anriss),
+   - `sitemap.xml` und `feed.xml` neu erzeugen mit `python tools/sitemap_feed.py`
+     (liest Titel, Datum, Rubrik und Anriss aus dem JSON-LD-Block des Beitrags;
+     Weiterleitungen mit `noindex` werden übersprungen),
    - den Status in `REDAKTIONSPLAN.md` («Entwurf liegt vor»).
    Ist der lokale Ordner nicht auf dem Stand von GitHub, überschreibt Claude
    nichts, sondern legt den Entwurf im Unterordner `_entwuerfe/` ab und meldet das.

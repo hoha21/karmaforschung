@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://karmaforschung.ch/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://karmaforschung.ch/blog/</loc>
+    <lastmod>2026-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://karmaforschung.ch/ueber-mich.html</loc>
     <lastmod>2026-10-24</lastmod>
   </url>
   <url>
@@ -13,23 +17,19 @@
     <lastmod>2026-10-24</lastmod>
   </url>
   <url>
-    <loc>https://karmaforschung.ch/ueber-mich.html</loc>
-    <lastmod>2026-10-24</lastmod>
-  </url>
-  <url>
-    <loc>https://karmaforschung.ch/blog/2026-09-27-europaeische-karmaforschung.html</loc>
-    <lastmod>2026-10-24</lastmod>
-  </url>
-  <url>
-    <loc>https://karmaforschung.ch/blog/2026-10-11-ursache-und-wirkung.html</loc>
-    <lastmod>2026-10-24</lastmod>
-  </url>
-  <url>
     <loc>https://karmaforschung.ch/blog/2026-10-25-karma-auf-der-buehne.html</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
   </url>
   <url>
     <loc>https://karmaforschung.ch/blog/2026-10-24-wer-und-wie-ist-der-mensch.html</loc>
     <lastmod>2026-10-24</lastmod>
+  </url>
+  <url>
+    <loc>https://karmaforschung.ch/blog/2026-10-11-ursache-und-wirkung.html</loc>
+    <lastmod>2026-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://karmaforschung.ch/blog/2026-09-27-europaeische-karmaforschung.html</loc>
+    <lastmod>2026-09-27</lastmod>
   </url>
 </urlset>
