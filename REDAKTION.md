@@ -27,6 +27,8 @@ Es gibt keine Pull Requests mehr.
    - den Eintrag zuoberst in `blog/index.html`,
    - den Eintrag zuoberst in der Liste «Neueste Beiträge» in `index.html`
      (höchstens fünf Einträge),
+   - das Quellenverzeichnis `literatur.html` neu erzeugen mit `python tools/literatur.py`
+     (sammelt die Einträge aller `<ul class="sources">` der Beiträge),
    - `sitemap.xml` und `feed.xml` neu erzeugen mit `python tools/sitemap_feed.py`
      (liest Titel, Datum, Rubrik und Anriss aus dem JSON-LD-Block des Beitrags;
      Weiterleitungen mit `noindex` werden übersprungen),
@@ -41,6 +43,16 @@ Es gibt keine Pull Requests mehr.
    daran arbeitet; sonst kann eine ältere Fassung zurückgespeichert werden.
 
 Claude veröffentlicht nie selbst: Claude committet und pusht nicht, das tut nur Alexander.
+
+## Überarbeitungen
+
+- Veröffentlichte Beiträge werden weiter gepflegt (Hinweis im Impressum, Abschnitt «Pflege der Texte»).
+- Bei inhaltlichen Änderungen am Ende des Beitrags vermerken:
+  `<p class="meta"><em>Überarbeitet am 1. November 2026:</em> was geändert wurde.</p>`
+  und im Block `application/ld+json` `"dateModified": "JJJJ-MM-TT"` sowie im Kopf
+  `<meta property="article:modified_time" content="JJJJ-MM-TT">` setzen. Danach
+  `tools/literatur.py` und `tools/sitemap_feed.py` ausführen.
+- Tippfehler und sprachliche Glättungen ohne Vermerk.
 
 ## Sprache und Stimme
 
